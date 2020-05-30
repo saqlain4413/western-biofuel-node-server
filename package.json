@@ -1,0 +1,15 @@
+{
+  "name": "western-biofuel-node-server",
+  "version": "1.0.0",
+  "description": "This Project is Node Server for Western Biofuel,This is my personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Saqlain Chaus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
